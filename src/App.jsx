@@ -58,7 +58,7 @@ const Portfolio = () => {
       id: 3,
       title: 'Boolean Builder',
       category: 'development',
-      role: 'Creator',
+      role: 'Maker (Side Project)',
       description: 'A free Boolean search helper for small teams and solo recruiters.',
       longDescription:
         'Boolean Builder was created for small businesses and solo recruiters who don’t have access to expensive HR tools. It helps them build robust AND / OR / NOT search strings for LinkedIn and Google without needing any technical knowledge. The interface is intentionally simple: you enter keywords, synonyms, must-have and exclude terms, and the tool builds the full query for you.',
@@ -92,7 +92,7 @@ const Portfolio = () => {
       id: 5,
       title: 'ToolMe',
       category: 'development',
-      role: 'Creator',
+      role: 'Maker (Side Project)',
       description: 'A growing suite of free micro-tools for small businesses.',
       longDescription:
         'ToolMe is a side project focused on giving small business owners simple tools they can use every day: calculators, estimators, and small helpers that save time. The idea is to keep each tool focused, fast, and accessible, without login or friction. It is still in early development, with a modular structure that makes it easy to add new utilities.',
