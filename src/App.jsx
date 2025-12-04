@@ -134,7 +134,7 @@ const Portfolio = () => {
               <Mail size={20} />
             </a>
             <a
-              href="https://github.com/MrStefanosP"
+              href="https://github.com/"
               target="_blank"
               rel="noreferrer"
               className="hover:text-blue-400 transition-colors"
@@ -194,8 +194,8 @@ const Portfolio = () => {
               </h2>
               <p className="text-slate-300 text-sm md:text-base leading-relaxed mb-3">
                 My background is in project and business consulting, mainly around EU and national
-                funding programmes for SMEs, tourism, and cultural organisations. I am used to
-                working with mixed teams like founders, engineers, architects, accountants, public
+                funding programmes for SMEs. I am used to
+                working with complex projects with mixed teams like founders, engineers, architects, accountants, public
                 institutions, and aligning everyone around clear steps, budgets, and deadlines.
               </p>
               <p className="text-slate-300 text-sm md:text-base leading-relaxed mb-3">
@@ -219,7 +219,7 @@ const Portfolio = () => {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-slate-300 text-sm">
                 <div className="flex items-center gap-2">
                   <Box size={16} className="text-blue-400" />
-                  Product & feature ownership
+                  Product & Project management
                 </div>
                 <div className="flex items-center gap-2">
                   <Layout size={16} className="text-blue-400" />
@@ -235,11 +235,11 @@ const Portfolio = () => {
                 </div>
                 <div className="flex items-center gap-2">
                   <Cpu size={16} className="text-blue-400" />
-                  Digital tools & light development
+                  Scrum/Agile
                 </div>
                 <div className="flex items-center gap-2">
                   <Globe size={16} className="text-blue-400" />
-                  Cross-border & funded projects
+                  Cross-border funded projects
                 </div>
               </div>
             </div>
