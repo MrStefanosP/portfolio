@@ -153,14 +153,13 @@ const Portfolio = () => {
             <span className="text-blue-500">Digital Product Work.</span>
           </h1>
           <p className="text-lg md:text-xl text-slate-400 max-w-3xl leading-relaxed mb-6">
-            I work at the intersection of funded programmes, operations, and digital products.
-            Over the last seven years, I&apos;ve helped SMEs, public bodies, and hospitality
-            businesses move from vague ideas to structured projects and working tools.
+            I work at the intersection of funded programmes, operations, Management and digital products.
+            Over the last seven years, I&apos;ve helped SMEs, public bodies, and NGOS
+            move from vague ideas to structured projects and working tools.
           </p>
           <p className="text-sm text-slate-500 max-w-2xl mb-8">
             This page is a focused snapshot of the digital products and tools I have managed or
-            built. It is meant to complement my CV and give more context around how I think and
-            work.
+            built.
           </p>
           <div className="flex flex-wrap gap-4">
             <button
