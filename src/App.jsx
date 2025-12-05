@@ -189,24 +189,24 @@ const Portfolio = () => {
                 About me
               </p>
               <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
-                Consultant turned product-focused operator.
+                A project & operations professional who also works with digital products when the project requires it.
               </h2>
               <p className="text-slate-300 text-sm md:text-base leading-relaxed mb-3">
-                My background is in project and business consulting, mainly around EU and national
-                funding programmes for SMEs. I am used to
-                working with complex projects with mixed teams like founders, engineers, architects, accountants, public
-                institutions, and aligning everyone around clear steps, budgets, and deadlines.
+                I’m a project and operations professional with seven years of experience delivering 
+                complex programmes for SMEs, public bodies, and NGOs. 
+                Most of my work has been in EU and national funding frameworks such as NSRF, INTERREG, Erasmus+, 
+                and Development Law programmes, managing complex multi-stakeholder projects and funding proposals 
+                with clear structures, timelines, and compliance requirements.
               </p>
               <p className="text-slate-300 text-sm md:text-base leading-relaxed mb-3">
-                Over time, I moved closer to digital products. I helped design, test, and launch
-                platforms like RuralKavala.gr and Safe-In, while also building small tools like
-                TaskSnacks, ToolMe, and Boolean Builder to solve day-to-day problems for myself and
-                other people. Most of these projects started from real needs I saw in my consulting
-                work.
+                Alongside this work, I’ve collaborated closely with technical teams on digital tools and platforms. 
+                I helped shape and launch products such as RuralKavala.gr and Safe-In, and I’ve also built smaller tools, 
+                to solve day-to-day operational needs. Digital products a natural extension of the work I do 
+                when a project requires a technical or product component.
               </p>
               <p className="text-slate-300 text-sm md:text-base leading-relaxed">
-                I like clear structure, honest communication, and products that actually get used.
-                This portfolio is a practical overview of a few products i managed and created.
+                Breaking down complex problems into actionable steps and helping teams deliver usable outcomes 
+                is always number one priority. 
               </p>
             </div>
 
@@ -218,27 +218,27 @@ const Portfolio = () => {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-slate-300 text-sm">
                 <div className="flex items-center gap-2">
                   <Box size={16} className="text-blue-400" />
-                  Product & Project management
+                  Project & programme management
                 </div>
                 <div className="flex items-center gap-2">
                   <Layout size={16} className="text-blue-400" />
-                  Project & programme delivery
+                  Operational planning & delivery
                 </div>
                 <div className="flex items-center gap-2">
                   <Users size={16} className="text-blue-400" />
-                  Stakeholder & client management
+                  Stakeholder and client coordination
                 </div>
                 <div className="flex items-center gap-2">
                   <Layers size={16} className="text-blue-400" />
-                  Process & workflow design
+                  Workflow & process optimization
                 </div>
                 <div className="flex items-center gap-2">
                   <Cpu size={16} className="text-blue-400" />
-                  Scrum/Agile
+                  Budgeting - Finance  
                 </div>
                 <div className="flex items-center gap-2">
                   <Globe size={16} className="text-blue-400" />
-                  Cross-border funded projects
+                  Cross-border and multi-partner projects
                 </div>
               </div>
             </div>
